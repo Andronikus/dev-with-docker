@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": ".NET Launch MyApp",
+        "type": "node",
+        "request": "launch",
+        "preLaunchTask": "build",
+        "program": "${workspaceFolder}/MyApp/bin/Debug/net8.0/MyApp.dll",
+        "cwd": "${workspaceFolder}/MyApp",
+        "env": {
+          "ASPNETCORE_ENVIRONMENT": "Development"
+        }
+      }
+    ]
+  }
+  
