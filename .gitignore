@@ -1,0 +1,13 @@
+# VS Code
+*.code-workspace
+
+# OS clutter
+.DS_Store
+Thumbs.db
+
+# Container artifacts
+**/TestResults/
+**/bin/
+**/obj/
+**/__pycache__/
+**/.pytest_cache/
