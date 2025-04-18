@@ -4,8 +4,8 @@ A collection of containerized development environments for multiple languages. E
 
 ## Available Environments
 
-- [C/C++](./c-cplus/)
-- [C# / .NET](./dotnet/)
+- [C/C++](./c-cplus-dev/)
+- [C# / .NET](./dotnet-dev/)
 
 ## Usage
 
